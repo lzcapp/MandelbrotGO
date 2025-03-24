@@ -1,2 +1,3 @@
 # MandelbrotGO
  
+![](./mandelbrot.png)
